@@ -4,7 +4,7 @@ public class Tema1Zadanie2 {
 
         int a = (n / 10); //первая цифра
         int b = (n % 10); //вторая цифра
-        System.out.print(a+b); //сумма
+        System.out.print(a + b); //сумма
 
     }
 }
